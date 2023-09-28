@@ -133,7 +133,7 @@ st.subheader(
 st.markdown(
     "Check the website [www.resumematcher.fyi](https://www.resumematcher.fyi/)")
 st.markdown(
-    '⭐ Give Resume Matcher a Star on [GitHub](https://github.com/srbhr/resume-matcher)')
+    '⭐ Give Resume Matcher a Star on [GitHub](https://github.com/lil-Ribhav-Bhatt1012/Resume-Matchers/tree/master)')
 badge(type="github", name="srbhr/Resume-Matcher")
 
 st.text('For updates follow me on Twitter.')
