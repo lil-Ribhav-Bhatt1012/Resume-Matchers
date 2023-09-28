@@ -131,17 +131,9 @@ st.title(':blue[Resume Matcher]')
 st.subheader(
     'Free and Open Source ATS to help your resume pass the screening stage.')
 st.markdown(
-    "Check the website [www.resumematcher.fyi](https://www.resumematcher.fyi/)")
-st.markdown(
     '⭐ Give Resume Matcher a Star on [GitHub](https://github.com/lil-Ribhav-Bhatt1012/Resume-Matchers/tree/master)')
-badge(type="github", name="srbhr/Resume-Matcher")
+badge(type="github", name="lil-Ribhav-Bhatt1012/Resume-Matchers")
 
-st.text('For updates follow me on Twitter.')
-badge(type="twitter", name="_srbhr_")
-
-st.markdown(
-    'If you like the project and would like to further help in development please consider 👇')
-badge(type="buymeacoffee", name="srbhr")
 
 avs.add_vertical_space(5)
 
@@ -290,12 +282,5 @@ st.title(':blue[Resume Matcher]')
 st.subheader(
     'Free and Open Source ATS to help your resume pass the screening stage.')
 st.markdown(
-    '⭐ Give Resume Matcher a Star on [GitHub](https://github.com/srbhr/Resume-Matcher/)')
-badge(type="github", name="srbhr/Resume-Matcher")
-
-st.text('For updates follow me on Twitter.')
-badge(type="twitter", name="_srbhr_")
-
-st.markdown(
-    'If you like the project and would like to further help in development please consider 👇')
-badge(type="buymeacoffee", name="srbhr")
+    '⭐ Give Resume Matcher a Star on [GitHub](https://github.com/lil-Ribhav-Bhatt1012/Resume-Matchers/tree/master)')
+badge(type="github", name="lil-Ribhav-Bhatt1012/Resume-Matchers")
